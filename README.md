@@ -18,3 +18,5 @@ Step Five: Run the script again by pasting ~/fix-bs-filestream.sh
 
 Finally the mount should pop up on the desktop!
 
+
+Credits: <a href="https://github.com/slw07g/googledrive-patch" target="_blank">slw07g</a>
