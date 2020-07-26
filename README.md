@@ -5,18 +5,18 @@ Google Drive File Stream just doesn't work out of the box on Big Sur due to the 
 Follow below to get File Stream working.
 ----
 
-Step One: Launch Terminal
+Step One: Launch Terminal<br>
 
-Step Two: Run in terminal
+Step Two: Run in terminal<br>
 curl https://raw.githubusercontent.com/mtan93/googledrivefilestream-bigsur/master/fix-bs-filestream.sh -o ~/fix-bs-filestream.sh && chmod +x ~/fix-bs-filestream.sh
 
-Step Three: Run the script in terminal by pasting ~/fix-bs-filestream.sh
+Step Three: Run the script in terminal by pasting ~/fix-bs-filestream.sh<br>
 
-Step Four: Then allow the dfsfuse kext under System Preferences > Security & Privacy and reboot your Mac. 
+Step Four: Then allow the dfsfuse kext under System Preferences > Security & Privacy and reboot your Mac. <br>
 
-Step Five: Run the script again by pasting ~/fix-bs-filestream.sh
+Step Five: Run the script again by pasting ~/fix-bs-filestream.sh<br>
 
-Finally the mount should pop up on the desktop!
+Finally the mount should pop up on the desktop!<br>
 
 
 <br><br>
