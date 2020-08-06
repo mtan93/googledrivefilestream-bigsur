@@ -18,6 +18,7 @@ Step Five: Run the script again by pasting ~/fix-bs-filestream.sh<br>
 
 Finally the mount should pop up on the desktop!<br>
 
+### Please Note: this is not compatible with Drive File Stream Version: 41.0.2.0+ 
 
 <br><br>
 Credits: <a href="https://github.com/slw07g/googledrive-patch" target="_blank">slw07g</a> - the initial work-around which needed Google Drive File Stream to be killed before the commands executed. 
