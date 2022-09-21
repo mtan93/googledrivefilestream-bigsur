@@ -1,3 +1,5 @@
+# THIS REPO IS ARCHIVED
+
 ### Fix Google Drive File Stream on macOS 11 (Big Sur) Beta 1, 2 & 3 
 ----
 Google Drive File Stream just doesn't work out of the box on Big Sur due to the way that kexts are loaded.
